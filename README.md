@@ -1,5 +1,5 @@
 - 👋 Seja bem vindo ao meu mundinho onde, pelos repositórios que aqui habitarão, 
-poderão acompanhar a trajetória de um completo iniciante dentro do ramo da programação orientada a análise de dados, mas que flerta com desenvolvimento back-end em silêncio!
+poderão acompanhar a trajetória de um completo iniciante dentro do ramo da programação orientado a desenvolvimento Python.
 
 - 👀 Meus interesses, tirando os pessoais, podem ser resumidos em uma única prática! Eu sou viciado de resolver problemas e... 
 Que profisional da área de técnologia não é?!
